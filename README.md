@@ -3,8 +3,7 @@
 A fine-tuned **Phi-3 Mini 4K Instruct** model built for hotel and hospitality AI agents.  
 This project focuses on customer support, concierge automation, guest FAQs, and hospitality workflows — all powered by a domain-specialized Small Language Model (SLM).
 
-Model deployed on Huggingface - Amey9766/phi3-hospitality-support-bot
-
+🔗 [Phi-3 Hospitality Support Bot on Hugging Face](https://huggingface.co/Amey9766/phi3-hospitality-support-bot)
 ---
 
 ## Overview
