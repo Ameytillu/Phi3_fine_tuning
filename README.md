@@ -1,4 +1,4 @@
-# Phi-3 Hospitality Support Bot
+# Phi-3 Fine Tuning on Larger Hospitality Data
 
 A fine-tuned **Phi-3 Mini 4K Instruct** model built for hotel and hospitality AI agents.  
 This project focuses on customer support, concierge automation, guest FAQs, and hospitality workflows — all powered by a domain-specialized Small Language Model (SLM).
